@@ -34,6 +34,6 @@ Decimal: 15
 
 ```
 $ bin2dec 101010
-Binário: 1111
+Binário: 101010
 Decimal: 42
 ```
